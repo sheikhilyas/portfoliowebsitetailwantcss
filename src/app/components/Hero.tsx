@@ -12,7 +12,7 @@ function Hero() {
                         With expertise in Next.js, HTML, CSS, JavaScript, and frameworks like React, I focus on delivering seamless user experiences.
                         Let’s work together to turn your ideas into interactive web solutions.
                     </p>
-                    <button className="mt-4 px-4 py-2 bg-teal-700 text-white rounded hover:bg-teal-800">
+                    <button className="mt-4 px-4 py-2 bg-teal-700 text-white rounded hover:bg-teal-800 ">
                         HIRE ME
                     </button>
                 </div>
